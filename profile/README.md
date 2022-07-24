@@ -1,5 +1,10 @@
-<a target="blank" href="https://ifpeopensource.com.br" rel="noopener noreferrer">
-  <img alt="IFPE Open Source" title="Acesse nosso site" src="https://github.com/ifpeopensource/.github/blob/605cf806eb5dc43e76a939a62839eed31f98a451/assets/logotype_horizontal_dark.svg" width="30%" />
+<a target="blank" href="https://ifpeopensource.com.br" rel="noopener">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ifpeopensource/.github/blob/0c77e14e8d9de2535c70e2fa2ff9b84ed328c526/assets/logotype_horizontal_light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ifpeopensource/.github/blob/605cf806eb5dc43e76a939a62839eed31f98a451/assets/logotype_horizontal_dark.svg">
+    <img alt="IFPE Open Source" title="Acesse nosso site" src="https://github.com/ifpeopensource/.github/blob/605cf806eb5dc43e76a939a62839eed31f98a451/assets/logotype_horizontal_dark.svg#gh-light-mode-only" width="30%" />
+  </picture>
+  
 </a>
 
 # IFPE Open Source
